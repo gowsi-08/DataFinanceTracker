@@ -1,0 +1,32 @@
+[
+  {
+    "id": "acc_1",
+    "name": "Savings Account",
+    "type": "savings",
+    "balance": 50000,
+    "currency": "INR",
+    "icon": "piggy-bank",
+    "color": "blue",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "acc_2",
+    "name": "Checking Account",
+    "type": "checking",
+    "balance": 25000,
+    "currency": "INR",
+    "icon": "wallet",
+    "color": "green",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "acc_3",
+    "name": "Credit Card",
+    "type": "credit",
+    "balance": -5000,
+    "currency": "INR",
+    "icon": "credit-card",
+    "color": "red",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
