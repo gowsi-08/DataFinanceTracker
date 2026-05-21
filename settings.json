@@ -1,0 +1,14 @@
+{
+  "currency": "INR",
+  "theme": "light",
+  "lastSync": "2026-05-21T22:51:17.525Z",
+  "budgetAlerts": true,
+  "darkMode": false,
+  "budgets": {
+    "Food": 10000,
+    "Transport": 5000,
+    "Shopping": 8000,
+    "Entertainment": 3000
+  },
+  "loans": []
+}
