@@ -1,13 +1,14 @@
 [
   {
     "id": "acc_1",
-    "name": "Savings Account",
+    "name": "IOB",
     "type": "savings",
     "balance": 50000,
     "currency": "INR",
     "icon": "piggy-bank",
     "color": "blue",
-    "createdAt": "2024-01-01T00:00:00.000Z"
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "notes": ""
   },
   {
     "id": "acc_2",
