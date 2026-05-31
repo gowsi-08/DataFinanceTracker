@@ -11,13 +11,14 @@
   },
   {
     "id": "acc_2",
-    "name": "Checking Account",
+    "name": "Second Account",
     "type": "checking",
     "balance": 25000,
     "currency": "INR",
     "icon": "wallet",
     "color": "green",
-    "createdAt": "2024-01-01T00:00:00.000Z"
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "notes": ""
   },
   {
     "id": "acc_3",
