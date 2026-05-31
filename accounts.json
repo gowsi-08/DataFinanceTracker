@@ -22,12 +22,13 @@
   },
   {
     "id": "acc_3",
-    "name": "Credit Card",
+    "name": "SBI",
     "type": "credit",
-    "balance": -5000,
+    "balance": 5000,
     "currency": "INR",
     "icon": "credit-card",
     "color": "red",
-    "createdAt": "2024-01-01T00:00:00.000Z"
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "notes": ""
   }
 ]
