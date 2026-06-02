@@ -1,7 +1,7 @@
 {
   "currency": "INR",
   "theme": "light",
-  "lastSync": "2026-06-02T17:21:54.243Z",
+  "lastSync": "2026-06-02T17:38:54.101Z",
   "budgetAlerts": true,
   "darkMode": false,
   "budgets": {
@@ -11,5 +11,5 @@
     "Entertainment": 3000
   },
   "loans": [],
-  "chitFundEnabled": true
+  "chitFundEnabled": false
 }
