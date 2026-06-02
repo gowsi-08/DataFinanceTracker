@@ -31,5 +31,16 @@
     "color": "red",
     "createdAt": "2024-01-01T00:00:00.000Z",
     "notes": ""
+  },
+  {
+    "id": "acc_1780420682834_d4b6szqi3",
+    "name": "Chit Fund",
+    "type": "chit_fund",
+    "balance": 0,
+    "notes": "",
+    "target_amount": 100000,
+    "start_date": "2026-06-02",
+    "duration_months": 20,
+    "payments": []
   }
 ]
