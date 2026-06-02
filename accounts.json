@@ -36,11 +36,19 @@
     "id": "acc_1780420682834_d4b6szqi3",
     "name": "Chit Fund",
     "type": "chit_fund",
-    "balance": 0,
+    "balance": 3750,
     "notes": "",
     "target_amount": 100000,
     "start_date": "2026-06-02",
     "duration_months": 20,
-    "payments": []
+    "payments": [
+      {
+        "id": "pay_1780420784717_wyuip8jh3",
+        "amount": 3750,
+        "date": "2026-06-02",
+        "notes": "",
+        "timestamp": "2026-06-02T17:19:44.717Z"
+      }
+    ]
   }
 ]
