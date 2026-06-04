@@ -1,9 +1,9 @@
 {
   "currency": "INR",
   "theme": "light",
-  "lastSync": "2026-06-04T16:40:25.695Z",
+  "lastSync": "2026-06-04T16:40:34.825Z",
   "budgetAlerts": true,
-  "darkMode": true,
+  "darkMode": false,
   "budgets": {
     "Food": 10000,
     "Transport": 5000,
