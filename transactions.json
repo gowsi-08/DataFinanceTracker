@@ -22,5 +22,17 @@
     "date": "2026-07-17",
     "tags": [],
     "attachments": []
+  },
+  {
+    "id": "txn_1785558576671_5i6l5m3h4",
+    "type": "expense",
+    "amount": 4200,
+    "from_account": "acc_1785557747324_zhk6294zo",
+    "to_account": "",
+    "category": "Shopping",
+    "description": "Deepfeel drs",
+    "date": "2026-08-26",
+    "tags": [],
+    "attachments": []
   }
 ]
