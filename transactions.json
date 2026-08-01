@@ -1,15 +1,5 @@
 [
   {
-    "id": "txn_2",
-    "date": "2024-05-05",
-    "type": "expense",
-    "category": "Food",
-    "amount": 2500,
-    "accountId": "acc_2",
-    "description": "Grocery shopping",
-    "createdAt": "2024-05-05T14:30:00.000Z"
-  },
-  {
     "id": "txn_1785557781759_8mfetql15",
     "type": "income",
     "amount": 14605,
