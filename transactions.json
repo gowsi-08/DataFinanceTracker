@@ -10,5 +10,17 @@
     "date": "2026-07-01",
     "tags": [],
     "attachments": []
+  },
+  {
+    "id": "txn_1785558415364_fkv2l0ebm",
+    "type": "expense",
+    "amount": 3990,
+    "from_account": "acc_1785557747324_zhk6294zo",
+    "to_account": "",
+    "category": "Shopping",
+    "description": "Thugil shopping",
+    "date": "2026-07-17",
+    "tags": [],
+    "attachments": []
   }
 ]
