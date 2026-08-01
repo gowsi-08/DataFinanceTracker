@@ -28,15 +28,5 @@
     "accountId": "acc_3",
     "description": "Clothing",
     "createdAt": "2024-05-18T13:00:00.000Z"
-  },
-  {
-    "id": "txn_7",
-    "date": "2024-05-20",
-    "type": "expense",
-    "category": "Entertainment",
-    "amount": 1200,
-    "accountId": "acc_2",
-    "description": "Movie tickets",
-    "createdAt": "2024-05-20T19:30:00.000Z"
   }
 ]
