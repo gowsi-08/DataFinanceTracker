@@ -20,16 +20,6 @@
     "createdAt": "2024-05-05T14:30:00.000Z"
   },
   {
-    "id": "txn_3",
-    "date": "2024-05-10",
-    "type": "expense",
-    "category": "Transport",
-    "amount": 1500,
-    "accountId": "acc_2",
-    "description": "Fuel",
-    "createdAt": "2024-05-10T09:15:00.000Z"
-  },
-  {
     "id": "txn_4",
     "date": "2024-05-12",
     "type": "expense",
@@ -48,5 +38,15 @@
     "accountId": "acc_3",
     "description": "Clothing",
     "createdAt": "2024-05-18T13:00:00.000Z"
+  },
+  {
+    "id": "txn_7",
+    "date": "2024-05-20",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1200,
+    "accountId": "acc_2",
+    "description": "Movie tickets",
+    "createdAt": "2024-05-20T19:30:00.000Z"
   }
 ]
