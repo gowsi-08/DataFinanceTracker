@@ -14,7 +14,7 @@
     "id": "acc_2",
     "name": "HDFC",
     "type": "checking",
-    "balance": 25000,
+    "balance": 0,
     "currency": "INR",
     "icon": "wallet",
     "color": "green",
