@@ -3,7 +3,7 @@
     "id": "acc_1",
     "name": "IOB",
     "type": "savings",
-    "balance": 3700,
+    "balance": 1000,
     "currency": "INR",
     "icon": "piggy-bank",
     "color": "blue",
