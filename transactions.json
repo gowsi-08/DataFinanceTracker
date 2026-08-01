@@ -8,5 +8,17 @@
     "accountId": "acc_2",
     "description": "Grocery shopping",
     "createdAt": "2024-05-05T14:30:00.000Z"
+  },
+  {
+    "id": "txn_1785557781759_8mfetql15",
+    "type": "income",
+    "amount": 14605,
+    "from_account": "",
+    "to_account": "acc_1785557747324_zhk6294zo",
+    "category": "Other Income",
+    "description": "opening balance",
+    "date": "2026-07-01",
+    "tags": [],
+    "attachments": []
   }
 ]
