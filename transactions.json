@@ -46,5 +46,17 @@
     "date": "2026-07-31",
     "tags": [],
     "attachments": []
+  },
+  {
+    "id": "txn_1785559965332_wm9flc8nn",
+    "type": "income",
+    "amount": 3700,
+    "from_account": "",
+    "to_account": "acc_1",
+    "category": "Other Income",
+    "description": "opening balance",
+    "date": "2026-07-01",
+    "tags": [],
+    "attachments": []
   }
 ]
