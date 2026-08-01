@@ -58,5 +58,17 @@
     "date": "2026-07-01",
     "tags": [],
     "attachments": []
+  },
+  {
+    "id": "txn_1785560013177_r21e12wbg",
+    "type": "expense",
+    "amount": 2700,
+    "from_account": "acc_1",
+    "to_account": "",
+    "category": "Shopping",
+    "description": "",
+    "date": "2026-07-30",
+    "tags": [],
+    "attachments": []
   }
 ]
