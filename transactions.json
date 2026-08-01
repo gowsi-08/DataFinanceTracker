@@ -40,16 +40,6 @@
     "createdAt": "2024-05-12T16:45:00.000Z"
   },
   {
-    "id": "txn_5",
-    "date": "2024-05-15",
-    "type": "income",
-    "category": "Freelance",
-    "amount": 15000,
-    "accountId": "acc_2",
-    "description": "Web development project",
-    "createdAt": "2024-05-15T11:20:00.000Z"
-  },
-  {
     "id": "txn_6",
     "date": "2024-05-18",
     "type": "expense",
