@@ -1,7 +1,7 @@
 [
   {
     "id": "acc_1",
-    "name": "IOB",
+    "name": "IPPB",
     "type": "savings",
     "balance": 50000,
     "currency": "INR",
