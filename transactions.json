@@ -18,15 +18,5 @@
     "accountId": "acc_1",
     "description": "Electricity bill",
     "createdAt": "2024-05-12T16:45:00.000Z"
-  },
-  {
-    "id": "txn_6",
-    "date": "2024-05-18",
-    "type": "expense",
-    "category": "Shopping",
-    "amount": 4500,
-    "accountId": "acc_3",
-    "description": "Clothing",
-    "createdAt": "2024-05-18T13:00:00.000Z"
   }
 ]
