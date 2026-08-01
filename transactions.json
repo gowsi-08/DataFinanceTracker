@@ -34,5 +34,17 @@
     "date": "2026-08-26",
     "tags": [],
     "attachments": []
+  },
+  {
+    "id": "txn_1785559873309_pd1wdftff",
+    "type": "income",
+    "amount": 44000,
+    "from_account": "",
+    "to_account": "acc_2",
+    "category": "Salary",
+    "description": "July 2026",
+    "date": "2026-07-31",
+    "tags": [],
+    "attachments": []
   }
 ]
