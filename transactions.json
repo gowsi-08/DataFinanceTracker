@@ -1,15 +1,5 @@
 [
   {
-    "id": "txn_1",
-    "date": "2024-05-01",
-    "type": "income",
-    "category": "Salary",
-    "amount": 75000,
-    "accountId": "acc_1",
-    "description": "Monthly salary",
-    "createdAt": "2024-05-01T10:00:00.000Z"
-  },
-  {
     "id": "txn_2",
     "date": "2024-05-05",
     "type": "expense",
